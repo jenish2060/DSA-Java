@@ -1,3 +1,5 @@
+// Area of Triangle
+
 import java.util.Scanner;
 
 public class AreaOfRectangle {

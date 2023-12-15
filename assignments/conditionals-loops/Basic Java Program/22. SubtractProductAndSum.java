@@ -1,3 +1,5 @@
+// Subtract the Product and Sum of Digits of an Integer
+
 import java.util.Scanner;
 
 public class SubtractProductAndSum {

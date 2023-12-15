@@ -1,3 +1,5 @@
+// Perimeter of Equilateral Triangle
+
 import java.util.Scanner;
 
 public class PerimeterOfET {
