@@ -8,11 +8,9 @@ class Solution {
             ans[i]=nums[i];
             ans[i+nums.length] = nums[i];
         }
-        System.gc();
         return ans;
     }
 }
 
-Run Time -> 2 ms
-Memory -> 42.8 MB
+
 
